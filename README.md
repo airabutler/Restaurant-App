@@ -1,4 +1,4 @@
-# Restaurant-App
+# Filipino-Restaurant-App
 
 <img width="424" alt="homepage" src="https://user-images.githubusercontent.com/117504514/210905668-f357ea35-ab75-4640-b3f5-daaaab0ce5b2.png"><img width="424" alt="menu page" src="https://user-images.githubusercontent.com/117504514/210905679-605cdd5b-1762-4356-8371-15b0944f2c7b.png">
 <img width="673" alt="shopping cart" src="https://user-images.githubusercontent.com/117504514/210905696-f3b04bef-d8d3-4f02-9166-d19ee4bcd084.png">
